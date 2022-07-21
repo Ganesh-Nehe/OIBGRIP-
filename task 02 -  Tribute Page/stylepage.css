@@ -1,0 +1,30 @@
+header{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+body{
+    background-color: gainsboro;
+}
+article{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+footer{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: x-small;
+}
+div{
+    text-align: center;
+}
+img{
+    width: 40%;
+    height: auto;
+}
